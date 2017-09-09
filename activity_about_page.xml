@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rightLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/lay1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#ffffff" >
+
+        <TextView
+            android:id="@+id/textView01"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:text="              In the United States, the average emergency response time is just over 15 minutes.  In some states, average response time can exceed 20 minutes, and even in the best states, the average time is over 6 minutes.  In an emergency, every second matters, and shortening the time it takes for a patient to get help is critical to that patient's odds of recovery.
+            There are over 12 million people trained in CPR annually in the United States alone, and millions more that have some form of emergency response skill.  This is incredibly useful if they see someone who needs resuscitation, but what if there's a patient who needs their help just down the block?  In the 15 minutes it takes for the emergency responders to arrive, that patient is helpless and may very well die or be seriously harmed, while our would-be Good Samaritan would never even know.  Similarly, what if a patient requires an AED that's stored in the next building over, or someone goes into anaphylactic shock and a person with an EpiPen is just down the street?
+            At HelpNet, our goal is to connect emergency patients to not only emergency responders but also the potential Good Samaritans nearby.  Our mission is to make response times faster and cut down on the amount of precious time that emergency patients need to wait to get help.  By crowdsourcing amateur but well-qualified responders, we can save lives by getting patients the help they need when they need it." />
+
+    </LinearLayout>
+</LinearLayout>
