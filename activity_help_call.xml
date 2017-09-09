@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.julian.callforhelp.HelpCall">
+
+    <Button
+        android:id="@+id/epi_b"
+        android:layout_width="343dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="24dp"
+        android:onClick="call"
+        android:text="@string/epi_button"
+        app:layout_constraintTop_toBottomOf="@+id/cpr_aed_b"
+        tools:layout_editor_absoluteX="16dp"
+        tools:text="@string/epi_button" />
+
+    <Button
+        android:id="@+id/insulin_b"
+        android:layout_width="343dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="24dp"
+        android:onClick="call"
+        android:text="@string/insulin_button"
+        app:layout_constraintTop_toBottomOf="@+id/epi_b"
+        tools:layout_editor_absoluteX="16dp"
+        tools:text="@string/insulin_button" />
+
+    <Button
+        android:id="@+id/cpr_aed_b"
+        android:layout_width="348dp"
+        android:layout_height="77dp"
+        android:layout_marginTop="16dp"
+        android:onClick="call"
+        android:text="@string/cpr_aed_button"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="16dp"
+        tools:text="@string/cpr_aed_button" />
+
+    <Button
+        android:id="@+id/idk_b"
+        android:layout_width="344dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="24dp"
+        android:onClick="call"
+        android:text="@string/idk_button"
+        app:layout_constraintTop_toBottomOf="@+id/od_b"
+        tools:layout_editor_absoluteX="16dp"
+        tools:text="@string/idk_button" />
+
+    <Button
+        android:id="@+id/od_b"
+        android:layout_width="344dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="24dp"
+        android:onClick="call"
+        android:text="@string/od_button"
+        app:layout_constraintTop_toBottomOf="@+id/insulin_b"
+        tools:layout_editor_absoluteX="16dp"
+        tools:text="@string/od_button" />
+</android.support.constraint.ConstraintLayout>
