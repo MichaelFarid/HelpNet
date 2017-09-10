@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "243923149872",
+    "firebase_url": "https://help-net.firebaseio.com",
+    "project_id": "help-net",
+    "storage_bucket": "help-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243923149872:android:cbda70c373e8a7fe",
+        "android_client_info": {
+          "package_name": "com.micha.example.helpnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243923149872-rrhcafer2aoqiisoj89pmdp8lkrsdhv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidT0ggzzXRsSGNEzn6jii6clj1Iy_bwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243923149872:android:7d5d2af1eb9d45e9",
+        "android_client_info": {
+          "package_name": "com.micha.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243923149872-rrhcafer2aoqiisoj89pmdp8lkrsdhv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidT0ggzzXRsSGNEzn6jii6clj1Iy_bwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
