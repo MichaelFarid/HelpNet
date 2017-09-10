@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_0c07d057bccc0a86929d3488781b9d7d1a36d935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_14a758263b24380d2491c34065c0ed6071599e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.6.1_2e79c332d4daf54fc1af7519e22843586727c0c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_cc90c979d907eb9a1fd2e32150c6b79a6cc8f021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_3342551b0fe20bbb1f72f9d0506c4997c8685454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_4babc519653de5d916cb25c8cf7ae3eab40b4f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_270b0b34b5f5a220a197e755cf6f58568505f5ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_90efb9bf0cfa17da057f9396d8af85cd12b170a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_d2ce5a7c8c3df1213cee7118e23ea7c05d40ce5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_b9131e61b62ef599365918bf6b7e554e781927c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_fe1563ded79c310434ba5ead85cb715638eefa61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\okio-1.9.0_26715e24b5efbeb63e60c46014321973b2c875b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_a6edbecfbde9b994356cac2f3a0573f35f774b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_914f579d3b949924c2e0dc46aa34deaed559b009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_5583d8501a045dea2717c540039f2b89f0aa37a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_f0776b7381f4f423d8840e0cb2b6b5d2cd26be5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_2a5b8f578ff457840657e0a7063459e0971d4497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_df641b3d434257ddd0cbe3184124e847345f12e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_ca0d4d35e590bf273c974eb23dc74514915cdd34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_842e9332b170c72111791504c37f5169c8b614c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_cf0a9fb3ee8d72e9ddc99f0f4f0be3635c8b97bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_d1b921ad465ebc2212daa9e4b958790bdd18e704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_da8a51d65bff361a37ed7f58d1d5d918f3204dd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_d05f008fec1ff50be0b8dbb4e7f6a83daf1b7b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_f97dddfdf31c94dde34a2fb46e4b2c599d8c5608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_c8da19dbe309767ee4c7169f9d524d626767af50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_75de4dfcce03c28bfc0644add6859bcb8b6b61e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_09772b3fa0e7b997749ddd1b933d44ff2e455877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\micha\Desktop\AndroidFirbaseChat-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_3aafff55da035390ecde24db0388743ed9fb4fd4.jar" />
+    </item>
+
+</items>
